@@ -25,23 +25,23 @@ To access the code and resources in this repository, you can follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    gitclone https://github.com/your-username/alx-frontend.git
-    
 2. Navigate to the cloned directory:
-   cd alx-frontend. 
+   cd alx-frontend.
 
- You're ready to explore the frontend code and resources!
+You're ready to explore the frontend code and resources!
 
 ## Content
- The repository structure is organized as follows:
+
+The repository structure is organized as follows:
 alx-frontend/
 ├── examples/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
+│ ├── index.html
+│ ├── styles.css
+│ └── script.js
 ├── resources/
-│   ├── images/
-│   ├── styles/
-│   └── scripts/
+│ ├── images/
+│ ├── styles/
+│ └── scripts/
 └── README.md
 The examples/ directory contains HTML, CSS, and JavaScript files that demonstrate different frontend concepts and techniques.
 
@@ -50,9 +50,11 @@ The resources/ directory provides additional resources such as images, styleshee
 The README.md file is the document you are currently reading, serving as an introduction and guide to the repository.
 
 ## Contributing
+
 Contributions to this repository are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the existing code style and provide clear commit messages.
 
 ## License
+
 The content of this repository is licensed under the MIT License. Feel free to use, modify, and distribute the code and examples for personal or commercial purposes. See the LICENSE file for more details.
 
 Feel free to explore the code and resources in this repository to enhance your frontend development skills!
