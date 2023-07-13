@@ -2,7 +2,7 @@
   color: rgb(228, 226, 222);
   border-color: rgb(50, 54, 56);
 }
-<style > .btn {
+.btn {
   color: rgb(209, 205, 199);
   background-color: transparent;
   border-color: transparent;
@@ -34,7 +34,7 @@
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-<style > a {
+a {
   color: rgb(122, 206, 211);
   text-decoration-color: initial;
   background-color: transparent;
@@ -44,7 +44,7 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
-<style > a {
+a {
   color: #3391ff;
 }
 *,
